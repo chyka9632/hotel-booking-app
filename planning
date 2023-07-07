@@ -1,0 +1,8 @@
+Users can access a list of hotels
+Users can book a reservation
+Users can get a reservation confirmation or ticket
+
+Classes:
+User
+Hotel
+Tickeet
