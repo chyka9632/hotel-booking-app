@@ -1,4 +1,6 @@
 id,name,city,capacity,available
-134,Tourist Sunny Apartment,Anchorage,4,no
-188,Snow Palace,New Delhi,5,no
+134,Tourist Sunny Apartment,Anchorage,4,yes
+188,Snow Palace,New Delhi,5,yes
 655,City Break Inn,Porto-Novo,3,yes
+128,Woodgreen Inn,Piccadily,10,yes
+321,Art Club,Dover Str London,15,yes
