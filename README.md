@@ -1,0 +1,1 @@
+A minimalist hotel booking app using the python OOP concept
